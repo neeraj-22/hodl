@@ -1,0 +1,1 @@
+https://api.wazirx.com/api/v2/tickers
