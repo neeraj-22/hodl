@@ -1,0 +1,106 @@
+{
+    "success": true,
+    "coinData": [
+        {
+            "_id": "",
+            "name": "BTC/INR",
+            "last": 2523532,
+            "buy": 2525599,
+            "sell": 2528842,
+            "volume": 155.5067,
+            "base_unit": "btc",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "ETH/INR",
+            "last": 187337,
+            "buy": 187338.5,
+            "sell": 189761.9,
+            "volume": 399.3366,
+            "base_unit": "eth",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "EOS/INR",
+            "last": 143.76,
+            "buy": 142.72,
+            "sell": 152.96,
+            "volume": 4445.41,
+            "base_unit": "eos",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "",
+            "last": 40.8938,
+            "buy": 40.8723,
+            "sell": 40.9861,
+            "volume": 583600.6,
+            "base_unit": "xrp",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "BAT/INR",
+            "last": 39.998,
+            "buy": 38.003,
+            "sell": 39.998,
+            "volume": 26742.55,
+            "base_unit": "bat",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "ZIL/INR",
+            "last": 5.41,
+            "buy": 5.42,
+            "sell": 5.45,
+            "volume": 5094887,
+            "base_unit": "zil",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "REQ/INR",
+            "last": 12,
+            "buy": 11.5,
+            "sell": 12.9999,
+            "volume": 55314.38,
+            "base_unit": "req",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "TRX/INR",
+            "last": 6.21,
+            "buy": 6.1967,
+            "sell": 6.2492,
+            "volume": 20023688,
+            "base_unit": "trx",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "NULS/INR",
+            "last": 108,
+            "buy": 0,
+            "sell": 0,
+            "volume": 0,
+            "base_unit": "nuls",
+            "__v": 0
+        },
+        {
+            "_id": "",
+            "name": "ZRX/INR",
+            "last": 43.69,
+            "buy": 41.01,
+            "sell": 46.77,
+            "volume": 34917.51,
+            "base_unit": "zrx",
+            "__v": 0
+        }
+    ],
+    "coinDataCount": 10
+}
