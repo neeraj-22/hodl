@@ -1,0 +1,74 @@
+.circleProgress_wrapper {
+  position: absolute;
+  width: 3rem;
+  height: 3rem;
+  margin: 0.5rem;
+  text-align: center;
+  line-height: 3rem;
+  color: white!important;
+}
+.right {
+  right: 0;
+}
+.wrapper {
+  position: absolute;
+  width: 1.5rem;
+  height: 3rem;
+  top: 0;
+  overflow: hidden;
+}
+.circleProgress {
+  width: 2.2rem;
+  height: 2.2rem;
+  border: 0.4rem solid whitesmoke;
+  border-radius: 50%;
+  box-sizing: content-box;
+  position: absolute;
+  top: 0;
+}
+.rightcircle {
+  border-top: 0.4rem solid #3dc6c1;
+  border-right: 0.4rem solid #3dc6c1;
+  right: 0;
+}
+.leftcircle {
+  border-bottom: 0.4rem solid #3dc6c1;
+  border-left: 0.4rem solid #3dc6c1;
+  left: 0;
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.right_cartoon {
+  -webkit-animation: circleProgressLoad_right 60s linear infinite forwards;
+  animation: circleProgressLoad_right 60s linear infinite forwards;
+}
+.left_cartoon {
+  -webkit-animation: circleProgressLoad_left 60s linear infinite forwards;
+  animation: circleProgressLoad_left 60s linear infinite forwards;
+}
+
+@keyframes circleProgressLoad_right {
+  0% {
+    -webkit-transform: rotate(46deg);
+    transform: rotate(46deg);
+  }
+
+  50%,
+  to {
+    -webkit-transform: rotate(-136deg);
+    transform: rotate(-136deg);
+  }
+}
+
+@keyframes circleProgressLoad_left {
+  0%,
+  50% {
+    -webkit-transform: rotate(46deg);
+    transform: rotate(46deg);
+  }
+
+  to {
+    -webkit-transform: rotate(-136deg);
+    transform: rotate(-136deg);
+  }
+}

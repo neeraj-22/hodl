@@ -1,0 +1,16 @@
+.footer{
+    border-top: 2px solid #f2f2f2;
+    display: flex;
+    width:100%;
+}
+
+.footer p{
+    margin-top:0.8rem;
+    font-size:1rem;
+    margin-right: 1rem;
+}
+
+.footer a{
+    text-decoration: none;
+    color:#3dc6c1
+}

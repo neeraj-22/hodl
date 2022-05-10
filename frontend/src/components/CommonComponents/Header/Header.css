@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200;300;400;500&display=swap');
+
+.logo-heading{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 400;
+    color:#3dc6c1;
+}
+
+.head {
+    font-family: Oswald, sans-serif;
+    margin-top: -18px;
+    opacity: 0.8;
+    font-size: 1.2rem;
+    color: gray;
+    align-items: center;
+    padding-top: 2rem;
+}
+
+.telegram-button {
+    margin-left:5rem;
+    margin-top: 2vh;
+    padding: 6px 20px;
+    border-radius: 10px;
+    background-color: #3dc6c1 !important;
+    color: #fff !important;
+}
+
+.telegram-logo {
+    height: 15px;
+    margin-right: 10px;
+}
+
+.d-inline-box {
+    align-items: center;
+    display: inline-block !important;
+    border-radius: 7px;
+    border:none;
+    background-color: #2e3241;
+}

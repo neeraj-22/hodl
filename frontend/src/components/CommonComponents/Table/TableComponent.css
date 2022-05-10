@@ -1,0 +1,21 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+
+.table-container{
+    width : 90%;
+    margin: auto auto;
+    padding:2rem;
+}
+
+.table-head{
+    opacity : 0.5;
+}
+
+.table-data{
+    border : 0.6rem solid #212529;
+    border-radius: 12px!important;
+    background-color: #2e3241;
+    font-weight: 500;
+    opacity:0.9
+}
